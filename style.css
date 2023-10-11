@@ -6,7 +6,7 @@
 }
 
 body{
-  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.877)),url(/photos/Cyber.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.877)),url(photos/Cyber.jpg);
 }
 
 header{
@@ -140,7 +140,7 @@ button:hover{
 	flex-wrap: wrap;
 	height: 1660px;
 	width: 100%;
-	background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.548)), url(/photos/city-at-night-cyberpunk-2077-thumb.jpg);
+	background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.548)), url(photos/city-at-night-cyberpunk-2077-thumb.jpg);
 	background-position: center;
 	
 }
@@ -197,7 +197,7 @@ button:hover{
 	box-shadow: 0 0 10px rgb(255, 0, 0) ;
 }
 .card-img{
-	background-image: url(/photos/cyberpunk-car-4k-me-2560x1440.jpg);
+	background-image: url(photos/cyberpunk-car-4k-me-2560x1440.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -209,7 +209,7 @@ button:hover{
 	border: 1px solid rgb(255, 187, 0);
 }
 .card-img2{
-	background-image: url(/photos/en-cp77-edgerunnes-update-1920-1080-rgb-1920x1080-62d4ff766a4a.png);
+	background-image: url(photos/en-cp77-edgerunnes-update-1920-1080-rgb-1920x1080-62d4ff766a4a.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -221,7 +221,7 @@ button:hover{
 	border: 1px solid orangered;
 }
 .card-img3{
-	background-image: url(/photos/29301b0e70.jpg);
+	background-image: url(photos/29301b0e70.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -233,7 +233,7 @@ button:hover{
 	border: 1px solid rgb(88, 88, 88);
 }
 .card-img4{
-	background-image: url(/photos/cyber-punk2077samurai-dragon.gif);
+	background-image: url(photos/cyber-punk2077samurai-dragon.gif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -311,7 +311,7 @@ button:hover{
 	flex-wrap: wrap;
 	height: 1174px;
 	width: 100%;
-	background-image:linear-gradient(rgba(0, 0, 0, 0.596),rgba(0, 0, 0, 0.979)), url(/photos/Cybercar2.jpg);
+	background-image:linear-gradient(rgba(0, 0, 0, 0.596),rgba(0, 0, 0, 0.979)), url(photos/Cybercar2.jpg);
 	background-position: center;
 }
 .statics{
@@ -417,7 +417,7 @@ button:hover{
 	flex-direction: column;
 	height: 540px;
 	width: 100%;
-  background-image:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.89)), url(/photos/145661-cyberpunk-2077-edgerunners-minimalism-4k-quality.jpg);
+  background-image:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.89)), url(photos/145661-cyberpunk-2077-edgerunners-minimalism-4k-quality.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
